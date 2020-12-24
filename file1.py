@@ -1,0 +1,1 @@
+print('name is set to:{}' .format(__name__))
