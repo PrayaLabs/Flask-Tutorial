@@ -1,1 +1,1 @@
-print('name is set to:{}' .format(__name__))
+print('{} Python:' .format(__name__))
